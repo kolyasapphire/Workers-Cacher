@@ -1,0 +1,6 @@
+name = "workers-cacher"
+main = "./src/index.ts"
+compatibility_date = "2023-01-04"
+kv_namespaces = [
+	{ binding = "STORE", id = "50816cacb6cd4a6980016b40fdcb4670" }
+]
